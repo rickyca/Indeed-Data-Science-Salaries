@@ -1,0 +1,572 @@
+,index,location,company,title,salary
+0,4,TX,MD Anderson Cancer Center,Institute Research Scientist - Center for Co-Clinical Trials,118.5
+1,10,TX,Genialis,Bioinformatics Software Developer,65.0
+2,16,TX,MD Anderson Cancer Center,Research Statistical Analyst - Biostatistics,83.0
+3,19,TX,MD Anderson Cancer Center,"Sr Research Scientist - Immunology, Flow Cytometry",71.5
+4,23,TX,MD Anderson Cancer Center,Senior Research Assistant - Neurosurgery Research,47.5
+5,29,TX,MD Anderson Cancer Center,Research Statistical Analyst -Bioinformatics & Computational...,83.0
+6,51,TX,MD Anderson Cancer Center,Computational Scientist,95.5
+7,55,TX,MD Anderson Cancer Center,Research Scientist - LCMS,58.05
+8,62,TX,MD Anderson Cancer Center,Institute Associate Scientist IV - Neuroinflammation Drug Di...,90.5
+9,65,TX,MD Anderson Cancer Center,Institute Associate Scientist II - In Vivo Pharmacology,64.75
+10,74,TX,Murray Resources,Market Research Analyst- Level 2,62.5
+11,105,TX,Baylor College of Medicine,Quality Assurance Analyst (Research),43.794
+12,116,TX,Rice University,Research Scientist,59.95
+13,151,TX,MD Anderson Cancer Center,"Principal Institute Research Scientist - Drug Discovery, Bio...",156.0
+14,4500,AZ,Arizona Health Care Cost Containment System,RESEARCH AND STATISTICAL ANALYST,47.7415
+15,4501,AZ,"Maricopa County, AZ",Management Analyst - Research & Planning,63.617
+16,4511,AZ,State of Arizona,ENVIRONMENTAL OUTREACH SPECIALIST,55.0
+17,4513,AZ,State of Arizona,ENVIRONMENTAL SCIENCE SPECIALIST 1 OR 2,47.5
+18,4519,AZ,State of Arizona,INTERN - ENVIRONMENTAL TECH - WATER QUALITY,28.8
+19,4520,AZ,State of Arizona,ENVIRONMENTAL. SCIENTIST - TECH ASST. COORDINATOR,50.0
+20,4527,AZ,State of Arizona,ENVIROMENTAL SCIENTIST - COMPLIANCE OFFICER,47.5
+21,4552,AZ,State of Arizona,ENVIRONMENTAL TECHNICIAN,37.5
+22,4553,AZ,Lawrence Harvey,Senior Manager of Data Science,157.5
+23,4560,AZ,State of Arizona,ENVIRO. ENGINEER SPECIALIST 1 OR 2,60.0
+24,4563,AZ,State of Arizona,AIR QUALITY PLANNER 2-3,61.0
+25,4574,AZ,State of Arizona,ENVMTL SCIENCE SPECIALIST 1 OR 2,47.5
+26,9005,IL,Workbridge Associates,"Junior Data Scientist (Python, R, AWS, Azure)",97.5
+27,9014,IL,Workbridge Associates,Data Scientist,125.0
+28,9020,IL,Ascension12,Lead Data Scientist,144.0
+29,9023,IL,Hirewell,Data Scientist,105.0
+30,9025,IL,Workbridge Associates,Junior Data Scientist,100.0
+31,9055,IL,Enodo Score,Data Engineer,80.0
+32,9062,IL,Go2Group,Senior Data Scientist,160.0
+33,9076,IL,Cook County Health & Hospitals System,MEDICAL TECHNOLOGIST III - HEMATOLOGY - JOHN H STROGER HOSPI...,55.296
+34,9089,IL,Workbridge Associates,Senior Data Scientist,130.0
+35,9092,IL,Request Technology,Data Integration Architect,100.0
+36,9114,IL,Bioron Inc.,Part-time scientist for APS beamline data collection for pro...,86.4
+37,9128,IL,Workbridge Associates,Data Scientist (SAS),102.5
+38,9138,IL,Smith Hanley Associates,Data Scientist,115.0
+39,9142,IL,Request Technology,Sr. Data Scientist,115.0
+40,9151,IL,Workbridge Associates,Data Engineer Contractor,120.0
+41,9165,IL,"Veterans Affairs, Veterans Health Administration",Medical Technologist,58.0895
+42,9173,IL,Northeastern Illinois University,Community Worker,32.64
+43,9221,IL,Huxley Banking & Financial Services,Quantitative Analyst,100.0
+44,9222,IL,Workbridge Associates,Lead Data Scientist,140.0
+45,9223,IL,Smith Hanley Associates,Senior Qualitative Research Analyst,70.0
+46,9224,IL,Jobspring Partners,Lead Data Scientist,85.0
+47,9225,IL,Jobspring Partners,Principal Data Lead (Machine Learning),180.0
+48,9227,IL,Huxley Banking & Financial Services,Quantitative Risk Analyst,90.0
+49,9239,IL,Workbridge Associates,"Data Scientist (Python, Spark, AWS)",92.5
+50,9252,IL,Workbridge Associates,CTO,120.0
+51,9254,IL,Workbridge Associates,"Lead Data Scientist (Tableau, RShiny, D3)",130.0
+52,9264,IL,Request Technology,Senior Data Scientist / Machine Learning Engineer,132.5
+53,9272,IL,Workbridge Associates,Data Scientist (Machine Learning),130.0
+54,9285,IL,Huxley Banking & Financial Services,Research Analyst-Clearing House,90.0
+55,9289,IL,S.C. International,Statistical Analyst,80.0
+56,9292,IL,Workbridge Associates,"Client Solutions Manager, Analytic Services",112.5
+57,9294,IL,Jobspring Partners,VP of Predictive Analytical Modeling,157.5
+58,9346,IL,Jobspring Partners,Machine Learning Engineer,150.0
+59,9386,IL,Jobspring Partners,.NET Developer (IoT and Machine Learning),112.5
+60,13507,CA,Aquila,Machine Learning Engineer,125.0
+61,13542,CA,UCSF,"Postdoctoral Fellow, Neuroscience Data Scientist",50.0
+62,13653,CA,Harnham,Senior Data Scientist,180.0
+63,13739,CA,University of California Berkeley,Lecturer - Sutardja Center for Entrepreneurship & Technology,108.6075
+64,13740,CA,UCSF,"Postdoctoral Fellow, Human Neuroimaging",50.0
+65,13769,CA,Workbridge Associates,Senior Data Scientist (Python),170.0
+66,13795,CA,Peralta Community College District,Research and Systems Technology Analyst,86.448
+67,13806,CA,Harnham,VP Data Science,250.0
+68,13870,CA,Ezra Penland Actuarial Recruitment,Insurance Marketing Data Scientist #76439,237.5
+69,13931,CA,"LTD Global, LLC",HR Administrative Coordinator,67.2
+70,13949,CA,Harnham,Data Scientist - Customer Intelligence,160.0
+71,13980,CA,University of California Berkeley,Associate Specialist - Water Law & Policy Fellow - Berkeley...,63.384
+72,14064,CA,Fortira,Bench Scientist,86.4
+73,14119,CA,"Kennedy Unlimited Inc, Professional Staffing",Analytics Manager (Machine Learning),135.0
+74,14146,CA,Harnham,Data Scientist,140.0
+75,14184,CA,Even,Full-stack designer,34.142
+76,14194,CA,Das Consulting,Senior Safety Scientist,225.0
+77,14248,CA,Heliotrope Technologies Inc.,Lab Operator / Technician,50.0
+78,14310,CA,Ezra Penland Actuarial Recruitment,Pricing Actuary and Leader #76222,204.9995
+79,14373,CA,University of California Berkeley,Event & Alumni Relations Coordinator,51.312
+80,14437,CA,Pentaho a Hitachi Company,Sales Engineer,195.0
+81,17983,NY,Centers for Disease Control and Prevention,Health Scientist,120.186
+82,17985,NY,Enterprise Select,Data Scientist,185.0
+83,18003,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Data Analyst, Bureau of Division Management/Center for Healt...",62.693
+84,18052,NY,Averity,Data Scientist (Media Startup),120.0
+85,18065,NY,Makro,Research Associate I,34.56
+86,18066,NY,Research Foundation of The City University of New...,Research Analyst I,56.5
+87,18075,NY,HRA/DEPT OF SOCIAL SERVICES,DATA ANALYST,59.9845
+88,18081,NY,WorldCover,Data Scientist,90.0
+89,18088,NY,Enterprise Select,Quantitative Analyst – FX Algorithmic Execution,150.0
+90,18096,NY,Ascension12,Lead Data Scientist,153.6
+91,18101,NY,DEPARTMENT OF FINANCE,Data Analyst,75.5575
+92,18125,NY,Oliver James Associates,Data Scientist,160.0
+93,18131,NY,NYC Department of Consumer Affairs,Research Analyst (Job ID: 287881),76.143
+94,18174,NY,DEPT OF DESIGN & CONSTRUCTION,Junior Capital Budget Statistician,52.9035
+95,18179,NY,POLICE DEPARTMENT,Data Analyst,79.2495
+96,18190,NY,SUNY ESF,Research Scientist -Descriptive Title: Ecologist,49.0
+97,18191,NY,Venturi Ltd,Senior Data Analyst ( EdTech / R / DataViz / Data Modelling...,100.0
+98,18193,NY,ICS,Data Integrity Account Control & Analysis Manager,95.0
+99,18197,NY,Workbridge Associates,Data Scientist,150.0
+100,18210,NY,Enterprise Select,Senior Data Engineer,140.0
+101,18212,NY,LaGuardia Community College,Data Analysis Instructor for Medical Billing,96.0
+102,18215,NY,"Industrial Sonomechanics, LLC",Assistant/Office Manager,30.72
+103,18231,NY,Huxley Associates,Data Scientist,160.0
+104,18235,NY,Algorithmic Districting Initiative (Non-Profit),Democracy & Mapping Engineer,120.0
+105,18241,NY,POLICE DEPARTMENT,"Statistician, Level I",52.9035
+106,18245,NY,Harnham,Predictive Modeling Analyst - Health & Wellness,100.0
+107,18246,NY,DEPT. OF HOMELESS SERVICES,Quality Management Coordinator,79.2495
+108,18253,NY,DEPT OF HEALTH/MENTAL HYGIENE,"NYC KIDS Child Health Survey Manager, Bureau of Epidemiology...",88.331
+109,18254,NY,DEPT OF YOUTH & COMM DEV SRVS,Research Associate,77.643
+110,18260,NY,ADMIN FOR CHILDREN'S SVCS,Child Welfare Analyst,76.9415
+111,18269,NY,OFFICE OF THE COMPTROLLER,Senior Research Analyst,75.0
+112,18289,NY,Venturi Ltd,Big Data Engineer / Hadoop Developer ( FinTech / Hive / Hbas...,145.0
+113,18295,NY,Guidepoint,Research Analyst,50.0
+114,18302,NY,"Health, Department of",Research Scientist 2 (BioStatistics) - 99969,77.318
+115,18314,NY,Oliver James Associates,Program Manager - Data Science - New York City - Start Up,157.5
+116,18316,NY,Fortira,Junior Scientist,38.4
+117,18338,NY,"Envisagenics, Inc.",Bioinformatics Scientist,87.5
+118,18349,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Data Manager – Researcher, Bureau of Children, Youth & Famil...",75.5575
+119,18353,NY,360 Resource Solutions,Senior Python Developer,130.0
+120,18364,NY,Oliver James Associates,AVP - Data Scientist,180.0
+121,18383,NY,"Envisagenics, Inc.",Bioinformatics Analyst,60.0
+122,18387,NY,"Kennedy Unlimited Inc, Professional Staffing",Predictive Analytics (Machine Learning),135.0
+123,18388,NY,The Talent Solution,Hebrew speaking Data Scientist,110.0
+124,18390,NY,HRA/DEPT OF SOCIAL SERVICES,DIRECTOR OF COORDINATED ENTRY,85.905
+125,18396,NY,CONSUMER AFFAIRS,Research Analyst,76.143
+126,18402,NY,Columbia University,Senior Technician - CLM,42.528
+127,18403,NY,Analytic Recruiting,Senior Data Scientist,120.0
+128,18418,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Evaluation Lead, Bureau of Systems Strengthening and Access",97.8665
+129,18427,NY,Averity,Data Scientist for Global Digital Media Company,145.0
+130,18433,NY,"Envisagenics, Inc.",Full Stack Engineer,90.0
+131,18437,NY,Enterprise Select,Sr Quantitative Finance Analyst,180.0
+132,18438,NY,Averity,NLP Data Scientist,180.0
+133,18440,NY,Research Foundation of The City University of New...,Senior Research Analyst,83.5
+134,18466,NY,"Conquest Technical Associates, LLC",JUNIOR QUANTITATIVE ANALYST,77.0
+135,18467,NY,Elevano,Senior NLP Data Scientist,165.0
+136,18475,NY,BOARD OF CORRECTION,Project Director,90.981
+137,18493,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Special Assistant, Bureau Primary Care Information Project",62.693
+138,18499,NY,TechLink Systems Inc.,Sr. SAS Programmer / Statistical Data Modeler,115.2
+139,18508,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Research Scientist for Data Integrity, World Trade Center He...",87.915
+140,18529,NY,DEPT OF ENVIRONMENT PROTECTION,Ecological Services Program Manager,79.2495
+141,18559,NY,PMES,Sr Data Scientist - NLP & CODING REQUIRED,155.0
+142,18605,NY,Venturi,Data Scientist ( Chinese Speaking / Deep Learning / NLP / AI...,133.1925
+143,18627,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Data Analyst, Bureau of Immunization",65.977
+144,18658,NY,DEPT OF HEALTH/MENTAL HYGIENE,"City Research Scientist, Bureau of Environmental Sciences an...",65.8848
+145,18663,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Research Operations Manager, Family and Child Health Adminis...",79.2495
+146,18676,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Researcher/Data Analyst, Bureau of Mental Health",75.5575
+147,18683,NY,DEPT OF DESIGN & CONSTRUCTION,Deputy Director of Procurement Data Analysis and Strategic P...,98.079
+148,18707,NY,Diamond Personnel,Entry Level Research Analyst,35.0
+149,18746,NY,Harnham,"VP, Data Scientist - Banking",180.0
+150,18750,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Program Coordinator, Bureau of Environmental Sciences and En...",62.693
+151,18754,NY,Research Foundation of The City University of New...,Research associate,41.977
+152,18759,NY,Harnham,Lead Data Scientist,200.0
+153,18801,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Research Data Analyst , Bureau of Veterinary and Pest Contro...",62.693
+154,18816,NY,Oliver James Associates,VP - Data Scientist,160.0
+155,18820,NY,Princeton Consulting,Quantitative Engineer & Analyst,145.0
+156,18840,NY,University at Buffalo,Postdoctoral Associate,47.476
+157,18842,NY,Averity,"VP, Data Science (Financial Services)",237.5
+158,18845,NY,Harnham,Chief Data Scientist - Consulting,220.0
+159,18862,NY,HuMetis Technologies Inc,Data Scientist - W2ONLY,110.0
+160,18869,NY,ELSolutions,Data Scientist,187.2
+161,18875,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Hypertension Initiative Coordinator, Prevention and Primary...",79.2495
+162,18892,NY,Averity,"Data Scientist for Multi-Million Dollar, Data- Driven Health...",150.0
+163,18916,NY,Venturi,Senior Data Analyst - R / SQL / EdTech,111.51
+164,22526,TX,Themesoft Inc,"Senior Data Scientist - Dallas,TX",96.0
+165,22535,TX,Workbridge Associates,Data Scientist,120.0
+166,22539,TX,Smith Hanley Associates,Senior Data Scientist,137.5
+167,22549,TX,Lighthouse Recruiting,Certifying Scientist,72.5
+168,22568,TX,Cottonwood Financial,DIRECTOR OF DECISION SCIENCE,120.0
+169,22597,TX,Medcillary,Financial Analyst / Business Analyst,120.0
+170,22601,TX,Cottonwood Financial,DIRECTOR OF MARKETING ANALYTICS,120.0
+171,26972,PA,Apex Life Sciences,"Research Scientist (Gene Therapy, Molecular Cloning, ELISA)",50.0
+172,26986,PA,Jobspring Partners,Data Scientist,125.0
+173,27011,PA,Harnham,Senior Data Scientist Healthcare,170.0
+174,27032,PA,Jobspring Partners,Senior Data Scientist,115.0
+175,27047,PA,Workbridge Associates,Data Scientist,115.0
+176,27052,PA,Smith Hanley Associates,Senior Statistician/Data Scientist-PHARMA,120.0
+177,27192,DE,"Kennedy Unlimited Inc, Professional Staffing",Predictive Analytics (Machine Learning),135.0
+178,27219,PA,Liberty Personnel Services,Data Scientist - Credit Risk Analyst,125.0
+179,27253,PA,Juno Search Partners,Senior Software Engineer,120.0
+180,27282,PA,Harnham,Data Science Manager Healthcare,170.0
+181,27284,PA,Workbridge Associates,Data Scientist for Marketing Technology,175.0
+182,27299,PA,Smith Hanley Associates,"Sr. Mgr./Mgr., Statistician-SFE --PHARMA",115.0
+183,27320,PA,inVentiv Health Clincal,Clinical Study Associate Trial Master File – TMF,56.0
+184,27337,PA,ACROSTAFF,Data Scientist,230.4
+185,27362,PA,Jobspring Partners,Angular Software Developer,100.0
+186,27368,NJ,Management Recruiters of Edison,JO-1932- Food Safety Hygienist – 3rd Shift,70.0
+187,27395,PA,"RDAssociates, Inc.",Market Research Analyst/Quality Assurance,23.04
+188,27398,PA,Public Health Management Corporation,Project Manager for Research and Evaluation Group,50.0
+189,31469,CO,State of Colorado Job Opportunities,DEMOGRAPHER/DATA SCIENTIST,60.456
+190,31485,CO,National Conference of State Legislatures,Research Analyst II / Policy Associate - Children and Famili...,41.832
+191,31494,CO,Denver Public Schools,SENIOR RESEARCH ANALYST (17096),69.673
+192,31495,CO,TechnoHealth,Data Scientist,150.0
+193,31568,CO,Edgelink,Lead Data Scientist,135.0
+194,31621,CO,University of Colorado,Division Management Assistant (AAIII),41.496
+195,31641,CO,Insperity,Administrative Assistant,34.56
+196,31648,CO,University of Colorado,"Head, Jerry Crail Johnson Earth Sciences & Map Library",65.0
+197,35965,CA,Createch,Data Scientist,70.0
+198,35970,CA,Aline LLC,Equity Research Analyst,110.0
+199,35979,CA,Goleta Star,Image Analysis Scientist,95.0
+200,35992,CA,Agency Y,Software Engineer (Machine Learning),115.0
+201,35995,CA,CooperGenomics,Clinical Laboratory Scientist,65.0
+202,35996,CA,Ascension12,Lead Data Scientist,153.6
+203,35998,CA,Los Angeles County Human Resources,"MEDICAL TECHNOLOGIST, DATA SYSTEMS",88.765
+204,36003,CA,Parallel HR,028502: Data Scientist-Media and Entertainment Sector Leader,200.0
+205,36011,CA,Gavin de Becker & Associates,Investigations & Research Analyst,42.5
+206,36027,CA,"Air Supply International, Inc.",Marketing Research Analyst (Advertising),48.0
+207,36036,CA,Clout.Com,"Sr Database Dev/Data Scientist (Hadoop,Apache Apex,Kafka,Dri...",130.0
+208,36067,CA,USC,Programmer Analyst III,93.5685
+209,36086,CA,USC,Postdoctoral Scholar Research Associate,59.0
+210,36136,CA,HERO.jobs,Principal Data Scientist,200.0
+211,36146,CA,Arete Associates,Research Scientist,104.5
+212,36156,CA,Wollborg Michelson Recruiting,Associate Scientist-Contract,76.8
+213,36167,CA,Los Angeles County Department of Human Resources,CLINICAL LABORATORY SCIENTIST I (North County),73.86
+214,36187,CA,AUMT Laboratory,Clinical Laboratory Scientist,80.64
+215,36189,CA,Harnham,Principal Data Scientist,160.0
+216,36204,CA,Los Angeles County Department of Human Resources,"MEDICAL TECHNOLOGIST, LABORATORY INFORMATION SYSTEMS",88.765
+217,36207,CA,Los Angeles County Department of Human Resources,"RESEARCH ANALYST III, BEHAVIORAL SCIENCES",79.7585
+218,36209,CA,Jobspring Partners,Data Scientist,125.0
+219,36220,CA,Los Angeles County Department of Human Resources,CLINICAL LABORATORY SCIENTIST I (Blood Bank),84.552
+220,36224,CA,AUMT Laboratory,part-time CLS,80.64
+221,36275,CA,Elevano,Senior Data Scientist,160.0
+222,36328,CA,ZeroChaos,Spanish Data Analysis and Evaluation,38.4
+223,36394,CA,ZeroChaos,German Translation & Data Analysis,38.4
+224,36444,CA,Lighthouse Recruiting,LC/MS Clinical Laboratory Scientist,95.0
+225,36456,CA,Cal State Fullerton,STEM Research Grant Developer (Administrative Analyst/Specia...,73.86
+226,36459,CA,California State University - Fullerton,STEM Research Grant Developer (Administrative Analyst/Specia...,73.86
+227,36474,CA,Traffk,Lead .NET Core Developer,127.5
+228,40471,PA,Smith Hanley Associates,Data Scientist,95.0
+229,40474,PA,The University of Pittsburgh,Research Review Analyst - Exempt/Expedited,45.942
+230,40490,PA,The University of Pittsburgh,Research Technician,30.81
+231,40518,PA,All-In Analytics,Senior Statistician,75.5
+232,44960,FL,ace Talent Curators,Data Scientist,100.0
+233,44961,FL,Miami Dade College,Part-Time Grant Research Analyst,49.536
+234,44963,FL,"Coastal Risk Consulting, LLC",Science Director,60.0
+235,44964,FL,Open Scientific,Associate Scientist / R&D Division,47.5
+236,44966,FL,University of Miami,Research Assistant (Diabetes Research Clinical Support),30.3648
+237,44968,FL,University of Miami,Sr. Research Analyst / Pre-award Grants,56.0
+238,44974,FL,The State of Florida,HEALTH SERVICES REPRESENTATIVE,33.0
+239,44976,FL,The State of Florida,MEDICAL LABORATORY SCIENTIST III - SES,35.346
+240,44977,FL,University of Miami,Research Associate 2,46.0
+241,44980,FL,University of Miami,"Psychiatry- Assistant Scientist, SOM",75.4
+242,44984,FL,University of Miami,Senior Research Analyst (Statistical Analysis),48.0
+243,44988,FL,Staffing Resource Group,Analytical R&D Associate Scientist,48.0
+244,44999,FL,Morgan Stephens,Legal Librarian Research Analyst,85.0
+245,45003,FL,Liberty Settlement Funding,Legal Research Analyst,30.0
+246,49457,GA,Centers for Disease Control and Prevention,Behavorial Scientist,96.3665
+247,49458,GA,Centers for Disease Control and Prevention,Behavioral Scientist,96.3665
+248,49461,GA,Centers for Disease Control and Prevention,Economist,122.338
+249,49466,GA,Emory University,Research Informatics Analyst,96.9
+250,49468,GA,Federal Aviation Administration,Operations Research Analyst,98.1435
+251,49469,GA,Emory University,Associate Sponsored Research Analyst,61.3
+252,49476,GA,SPEDx,LEAD DATA SCIENTIST,115.0
+253,49479,GA,Emory University,Systems Software Engineer,86.4
+254,49486,GA,Centers for Disease Control and Prevention,Lead Microbiologist (Inspector),122.338
+255,49487,GA,Emory University,Scientist (AR) SOM,85.5
+256,49492,GA,Emory University,"Scientist, Asst (AR) SOM",58.3
+257,49496,GA,CSTE,Associate Research Analyst,51.706
+258,49497,GA,Analytic Recruiting,Data Scientist - Supply Chain Analytics,107.5
+259,49498,GA,Emory University,Technical Editor,58.3
+260,49504,GA,Emory University,"Asst Dir, Faculty Recruitment Winship",85.5
+261,49508,GA,Principle Solutions Group,Data Scientist,150.0
+262,49516,GA,Veredus,Data Analyst,75.0
+263,49524,GA,Centers for Disease Control and Prevention,Epidemiologist,87.0625
+264,49560,GA,Emory University,Prospect Research Analyst-Development and Alumni Relations,53.2
+265,49637,GA,Lighthouse Recruiting,Certifying Scientist,62.5
+266,49694,GA,iiTS,"Accounting Policy, Research and Special Projects Senior Anal...",80.0
+267,49698,GA,Thompson Technologies,Artificial Intelligence / Machine Learning Innovation Manage...,160.0
+268,49711,GA,Principle Solutions Group,Senior Statistical Consultant,120.0
+269,53962,WA,NxT Level,Data Scientist,107.5
+270,53973,WA,University of Washington,RESEARCH TECHNOLOGIST 1,36.468
+271,53979,WA,NxT Level,Software Engineer - Machine Learning,117.5
+272,53993,WA,Public Health - Seattle & King County,Social Research Scientist,89.0255
+273,53995,WA,King County,Social Research Scientist,89.0255
+274,53997,WA,University of Washington,MEDICAL LABORATORY SCIENTIST-TRAINEE OR 1,64.14
+275,54006,WA,King County,Environmental Scientist II,76.5312
+276,54036,WA,Employment Trust,Data Engineer/Scientist,117.5
+277,54043,WA,University of Washington,MEDICAL LABORATORY SCIENTIST 1,66.726
+278,54056,WA,King County,Engineer I,67.9776
+279,54148,WA,University of Washington Medical Center,IDENTITY & ACCESS ANALYST,51.138
+280,54164,WA,Liberty Mutual,Principal Software Developer,123.9
+281,54174,WA,State of Washington,Site Hazard Assessment and WARM Ranking Specialist,62.85
+282,54185,WA,King County,Epidemiologist II,82.176
+283,54194,WA,University of Washington Medical Center,CLINICAL LABORATORY TECHNICIAN 1,43.596
+284,54244,WA,University of Washington Medical Center,CONTACT CENTER REPRESENTATIVE 1,43.14
+285,54298,WA,Vertisystem,Digital Signal Processing/DSP Engineer - contract,136.1664
+286,54366,WA,Liberty Mutual,"Senior Analyst/Consultant, Advanced Analytics Data Engineeri...",109.0
+287,54399,WA,University of Washington Medical Center,RECORDS ANALYST 2,47.532
+288,54404,WA,Analytic Recruiting,Sr Business Analyst - Microstrategy,150.0
+289,54418,WA,Volt Workforce Solutions,Program Manager 2 - SQL Data Analysis,81.6
+290,54424,WA,Lighthouse Recruiting,Certifying Scientist,72.5
+291,54468,WA,Lighthouse Recruiting,Variant Scientist (Remote),95.0
+292,58454,TX,University of Texas at Austin,Research Associate - R and D Data Scientist,97.494
+293,58502,TX,University of Texas at Austin,Engineering Scientist Associate - Research Software Engineer...,60.0
+294,58506,TX,Invenio Marketing Solutions,Inside Sales Representative,36.0
+295,58509,TX,University of Texas at Austin,Engineering Scientist Associate - R and D Software Developer,71.4
+296,58523,TX,University of Texas at Austin,Engineering Scientist - Satellite Attitude Determination Spe...,102.498
+297,58584,TX,University of Texas at Austin,Research Engineering/ Scientist Associate IV (Exempt) - Radi...,64.998
+298,58602,TX,University of Texas at Austin,Engineering Scientist Associate - Satellite Attitude Determi...,71.4
+299,58603,TX,University of Texas at Austin,Engineering Scientist - Senior Software Defined Radio Receiv...,102.498
+300,58606,TX,University of Texas at Austin,Engineering Scientist Associate - Information Systems Engine...,71.4
+301,58608,TX,Bat Conservation International,Director of Institutional Giving,75.0
+302,58609,TX,University of Texas at Austin,Engineering Scientist Associate - Software Defined Radio Rec...,71.4
+303,62951,OR,"Najit Technologies, Inc.",Research Scientist,42.5
+304,62958,OR,Columbia River Inter-Tribal Fish Commission (CRITF...,Administrative Assistant,46.7715
+305,62981,OR,"Kennedy Unlimited Inc, Professional Staffing",Predictive Analytics (Machine Learning),135.0
+306,62986,OR,Oregon Health & Science University,Postdoctoral Scholar,47.484
+307,62995,OR,Cascade Insights,Market Research Analyst (B2B Technology),70.0
+308,63004,WA,State of Washington,Region 5 Regional Program Manager (WMS03) *03226-17,78.996
+309,63015,OR,Acumen Executive Search,Corporate Account Manager,100.0
+310,63027,WA,State of Washington,Permanent Aquatic Animal Health Veterinarian *04120-17,82.464
+311,32,TX,MD Anderson Cancer Center,Institute Assoc Scientist III - Neurodegeneration Consort,78.25
+312,138,TX,Oscar Technology,Head of Engineering - Accounting Platform,250.0
+313,4509,AZ,SiteLock,Web Security Research Analyst,52.5
+314,4529,AZ,"Kennedy Unlimited Inc, Professional Staffing",Predictive Analytics (Machine Learning),135.0
+315,4550,AZ,State of Arizona,COMPLIANCE OFFICER - HAZ WASTE,55.75
+316,9153,IL,Workbridge Associates,"Junior Data Scientist (Python, Spark, SciKitLearn)",100.0
+317,9163,IL,Workbridge Associates,"Junior-level Data Scientist (R, AWS RedShift, Python)",95.0
+318,9173,IL,Jobspring Partners,Principal Data Scientist,160.0
+319,9222,IL,Cook County Health & Hospitals System,MEDICAL TECHNOLOGIST III - JOHN H. STROGER HOSPITAL,55.296
+320,9262,IL,Workbridge Associates,"Deep Learning/Neural Networking Expert (Python, TensorFlow,...",144.0
+321,9280,IL,Workbridge Associates,"Manager of Data Science (Python, AWS, Spark)",180.0
+322,9301,IL,Jobspring Partners,Principal Machine Learning Engineer,160.0
+323,9337,IL,Paul May & Associates,Digital Marketing Analytics Modeler,125.0
+324,9338,IL,Workbridge Associates,NLP Data Scientist,100.8
+325,9367,IL,Hirewell,Data Scientist -Fitness/Wellness Firm,120.0
+326,9368,IL,S.C. International,Predictive Modeling Actuary,140.0
+327,9377,IL,Workbridge Associates,Full Stack Developer,90.0
+328,13489,CA,Griffin Advisors,PhD in AI / Machine Learning,275.0
+329,13519,CA,Workbridge Associates,Senior Data Scientist (Contract),249.6
+330,13793,CA,Blue Owl,Save lives developing an Android app,250.0
+331,13922,CA,University of California Berkeley,Admissions Assistant Job - School of Information,43.3632
+332,13949,CA,Ceres Imaging,Data Acquisition Programmer,120.0
+333,13957,CA,Harnham,Senior Data Science Manager,185.0
+334,13980,CA,Corporate Labs Technology,Data Scientist (Machine Learning),145.0
+335,14134,CA,Workbridge Associates,Senior Data Scientist,160.0
+336,14173,CA,"Kennedy Unlimited Inc, Professional Staffing",Predictive Analytics (Machine Learning),135.0
+337,18003,NY,Hire Theory,Senior Quantitative Analyst-Advanced Analytics,105.0
+338,18111,NY,Research Foundation of SUNY,Research Scientist - SSIE,65.0
+339,18136,NY,All-In Analytics,Senior Data Scientist,145.0
+340,18204,NY,DEPT OF ENVIRONMENT PROTECTION,OSPE Program Analyst,79.2495
+341,18217,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Research Scientist of Special Projects, World Trade Center H...",97.8665
+342,18263,NY,Venturi Ltd,"VP, Data Science ( FinTech / Python / R / Machine Learning )",250.0
+343,18301,NY,DEPARTMENT OF FINANCE,Policy Data Analyst,74.1195
+344,18317,NY,DEPT OF HEALTH/MENTAL HYGIENE,"City Research Scientist, Bureau of Sexually Transmitted Dise...",79.2495
+345,18359,NY,Victor Noble Associates,Quantitative Research analyst,175.0
+346,18372,NY,MTA New York City Transit,"Director, System Data Analysis",119.298
+347,18388,NY,AiCure,Senior Manager of Project Management for AI Healthcare Compa...,100.0
+348,18445,NY,DEPARTMENT OF TRANSPORTATION,Environmental Compliance Specialist,79.2495
+349,18460,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Senior Policy Analyst, Bureau of Children, Youth, and Famili...",75.5575
+350,18493,NY,605,Full-Stack Engineer,112.5
+351,18507,NY,"Urban Scholars Program, City College of New York",Computer Science (Data Analysis) Instructor,76.8
+352,18582,NY,DEPT OF HEALTH/MENTAL HYGIENE,Environmental Analyst,62.0965
+353,18586,NY,S.C. International,Sr. Modeling Data Scientist,130.0
+354,18593,NY,Elevano,Machine Learning Engineer,160.0
+355,18627,NY,DEPT OF ENVIRONMENT PROTECTION,Supervising Engineer,79.2495
+356,18633,NY,Venturi Ltd,Senior Data Engineer ( Search / IR / Python / ML / NLP / AI...,175.0
+357,18637,NY,Jobspring Partners,Senior Data Scientist - Fintech Startup,175.0
+358,18649,NY,AiCure,IT Support Specialist,70.0
+359,18674,NY,DEPT OF CITYWIDE ADMIN SVCS,Research and Policy Analyst,65.977
+360,18725,NY,Execu | Search,Quantitative Analyst,147.5
+361,18742,NY,HRA/DEPT OF SOCIAL SERVICES,Project Manager,76.643
+362,18771,NY,DEPARTMENT OF SANITATION,Full-Stack Developer,102.507
+363,18799,NY,Harnham,Senior Data Scientist - NLP and Machine Learning,180.0
+364,18882,NY,HRA/DEPT OF SOCIAL SERVICES,Senior Project Manager,86.565
+365,19007,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Performance Improvement Specialist, Bureau of Childcare",62.693
+366,19964,NY,ALC Staffing Associates,Security Research Analyst-Virtual Nationwide,118.0
+367,22488,TX,Professional Search,Data Scientist,96.0
+368,25759,TX,Lighthouse Recruiting,"Method Development, Clinical Toxicology",70.0
+369,27258,DE,Hunter International,Intellectual Property Analyst,107.52
+370,31527,CO,University of Colorado,Business Services Manager,65.5
+371,35976,CA,Swifter,Director of Data Science,225.0
+372,35980,CA,"University Enterprises, Inc.",Student Assistant- Administrative Research Analyst (Glendale...,27.84
+373,36007,CA,ConSol Partners,"Sr. Data Scientist Needed for Top LA Start-Up, Huge Opportun...",160.0
+374,36011,CA,All-In Analytics,Senior Data Scientist,137.5
+375,36095,CA,Herman Search,Technical Recruiter at Boutique Recruiting Firm,150.0
+376,36105,CA,Coda Search,Research/Performance Analyst - Hedge Fund,100.0
+377,36165,CA,Montgomery Assets,Quantitative Analyst,97.0
+378,36216,CA,California Air Resources Board,Air Resources Engineer (El Monte),86.154
+379,36260,CA,TriFoil Imaging,"Application Scientist, Pre-Clinical",90.0
+380,36395,CA,Arete Associates,Computational Scientist,84.5
+381,36417,CA,LT,iOS Development Manager,200.0
+382,36447,CA,MACP Los Angeles,Computer Vision Data Scientist,185.0
+383,44955,FL,University of Miami,Assistant Scientist,75.4
+384,44959,FL,University of Miami,(Temporary) Research Analyst (Statistics),41.424
+385,45040,FL,University of Miami,Sr. Laboratory Technician,46.0
+386,49474,GA,Principle Solutions Group,Data Scientist - Remote,125.0
+387,49482,GA,CI Radar,Business Research Analyst - Entry Level,31.0
+388,49490,GA,Emory University,"Scientist, Asst Bioinformatics",77.6
+389,49618,GA,Smith Hanley Associates,Statistician - Model Validation,105.0
+390,53949,WA,University of Washington Medical Center,RESEARCH TECHNOLOGIST 1,36.468
+391,54033,WA,Smith Hanley Associates,Senior Data Scientist,160.0
+392,54098,WA,University of Washington Medical Center,SUPPLY CHAIN TECHNICIAN LEAD,40.734
+393,54215,WA,University of Washington,HUMAN RESOURCE CONSULTANT ASSISTANT 2,39.468
+394,54273,WA,University of Washington Medical Center,MEDICAL LABORATORY SCIENTIST-TRAINEE OR 1,64.14
+395,54315,WA,University of Washington Medical Center,BUYER 2 - MRO,45.282
+396,54319,WA,University of Washington Medical Center,BUYER 2 - PATIENT CARE SERVICES,45.282
+397,54411,WA,Kon Tiki Academy Inc.,Office Manager/Administrative Assistant,24.0
+398,54460,WA,University of Washington Medical Center,CLINICAL LABORATORY TECHNICIAN 2,46.29
+399,54468,WA,City of Seattle,Enterprise Risk Management & Quantitative Analyst (Strategic...,96.9504
+400,58443,TX,"object information services,inc",Jr. Market Research Analyst,72.96
+401,58461,TX,University of Texas at Austin,Engineering Scientist - R and D User Interface Software Deve...,102.498
+402,58468,TX,"Signature Science, LLC",Bioinformatics Specialist-Metagenomics/Proteomics,90.0
+403,58471,TX,Gibson - An Education Consulting & Research Group,Senior Research Scientist (Principal Investigator level),130.0
+404,58478,TX,Morningside Research and Consulting,"Policy Research Analyst - Temporary, FT and PT",38.4
+405,58480,TX,Texas Department of Public Safety,"Section Supervisor I (DNA Technicial Leader), LES-Austin",77.058
+406,58555,TX,University of Texas at Austin,Research Engineering/ Scientist Associate III (Exempt),49.992
+407,62955,OR,Oregon Health & Science University,Scientific Program Management Scholar (Postdoctoral Research...,57.5
+408,33,TX,MD Anderson Cancer Center,"Research Scientist, Experimental Radiation Oncology",64.5
+409,35,TX,MD Anderson Cancer Center,Executive Assistant,54.0
+410,60,TX,MD Anderson Cancer Center,Research Scientist - Thoracic H&N Med Oncology - Research,64.5
+411,64,TX,MD Anderson Cancer Center,Research Statistical Analyst,83.0
+412,88,TX,Texas Department of Public Safety,"Forensic Scientist I-III (DNA Analysis), LES - Houston",51.294
+413,94,TX,Texas Department of Public Safety,"Forensic Scientist I-III (Drug Analysis), LES-Houston",51.294
+414,123,TX,MD Anderson Cancer Center,Clinical Histology Technician,46.35
+415,7002,AZ,CyberCoders,Data Scientist,110.0
+416,7019,AZ,State of Arizona,INTERN - WASTE PROGRAMS,28.8
+417,7025,AZ,Arizona State University,Research Technician,26.0256
+418,7038,AZ,Altair Engineering,Aerospace Engineer,83.52
+419,7052,AZ,Arizona Natural Selections,Laboratory Manager - Plant Extraction Research and Developme...,60.0
+420,13601,IL,CareerMonks,Data Scientist,117.5
+421,13602,IL,3sixtyHR,Senior Data Scientist,95.0
+422,13610,IL,Lucas Group,Data Scientist,127.5
+423,13620,IL,Workbridge Associates,Data Scientist,110.0
+424,13631,IL,Jobspring Partners,Data Scientist,135.0
+425,13648,IL,Workbridge Associates,Data Analyst/Scientist (Campaign Reporting & Analysis),96.0
+426,13664,IL,"Fargo Group, LLC",Research Analyst / Prospector,33.6
+427,13678,IL,Workbridge Associates,"Data Scientist (Python, Spark, AWS)",110.0
+428,13728,IL,S.C. International,Data Scientist Predictive Modeler,130.0
+429,13732,IL,Jobspring Partners,Lead Data Scientist (Marketing),145.0
+430,13819,IL,Vivaldi Capital Management,Junior Analyst | Hedge Fund Research,62.5
+431,13825,IL,Workbridge Associates,Senior Data Scientist,135.0
+432,13843,IL,Jobspring Partners,Software Engineer (Python),92.5
+433,13861,IL,Jobspring Partners,Lead Data Scientist,150.0
+434,13883,IL,"Veterans Affairs, Veterans Health Administration",Medical Technologist,63.095
+435,13910,IL,CR,Entry Level Market Research & Data Analyst,50.0
+436,14024,IL,Jobspring Partners,Machine Learning Engineer (Ruby),120.0
+437,14066,IL,Smith Hanley Associates,CRM Consultant/Sr. Statistical Analyst,85.0
+438,14080,IL,Huxley Associates,Quantitative Analyst,150.0
+439,14085,IL,Jobspring Partners,Senior Python Engineer (Machine Learning),125.0
+440,14112,IL,Workbridge Associates,Software Engineer,95.0
+441,14153,IL,Huxley Associates,Senior Quantitative Analyst,120.0
+442,20630,CA,3sixtyHR,Deep Learning Engineer/Machine Learning Engineer,145.0
+443,20671,CA,Workbridge Associates,Data Scientist,165.0
+444,20729,CA,University of California Berkeley,Applications Programmer 1,47.7888
+445,20757,CA,Corporate Labs Technology,Data Scientist (Natural Language Processing),145.0
+446,20775,CA,Blue Owl,Director of Pricing - P&C Insurance,225.0
+447,20885,CA,Workbridge Associates,Senior Data Scientist - Downtown SF,150.0
+448,20887,CA,Workbridge Associates,Data Science Engineer,155.0
+449,21096,CA,"ATACAMA, Inc",Research Assistant,26.88
+450,21362,CA,Workbridge Associates,Data Scientist - Mobile Startup,150.0
+451,21499,CA,Harnham,Senior Director of Data Science,250.0
+452,21505,CA,Greenberg Strategy,Senior Accountant,65.0
+453,21938,CA,Workbridge Associates,Senior Machine Learning Engineer (Python),170.0
+454,22023,CA,Workbridge Associates,Principal Machine Learning Engineer,170.0
+455,22062,CA,Workbridge Associates,Data Scientist (Python),170.0
+456,27607,NY,University at Buffalo,Research Scientist,45.0
+457,27617,NY,Oliver James Associates,Data Scientist,120.0
+458,27648,NY,"Research Foundation for Mental Hygiene, Inc.",Research Scientist II,82.222
+459,27663,NY,MetroPlus Health Plan,Health Informatics Analyst,102.5
+460,27675,NY,Guidepoint,Research Analyst,50.0
+461,27685,NY,Robert Walters,Data Scientist,100.0
+462,27688,NY,DEPT OF ENVIRONMENT PROTECTION,Aquatic Ecologist,74.4065
+463,27692,NY,Venturi Ltd,Senior Data Scientist ( FinTech / Fraud / Python / R / Machi...,117.5
+464,27734,NY,DEPARTMENT OF FINANCE,Data Analyst/Modeler,75.5575
+465,27758,NY,ADMIN FOR CHILDREN'S SVCS,Predictive Risk Analyst,77.035
+466,27786,NY,"Alltech Consulting Services, Inc",Data Scientist (Financial Client),220.8
+467,27802,NY,TheStreet,Market Research Analyst,124.592
+468,27839,NY,Averity,Director of Data Science,212.5
+469,27847,NY,Robert Walters,Quantitative Risk Analyst,115.0
+470,27867,NY,Averity,Senior Data Scientist (Insurance Specialty),160.0
+471,27886,NY,Venturi Group,Senior Data Scientist ( FinTech / Python / R / ML / Big Data...,160.0
+472,27896,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Environmental Analyst, Bureau of Environmental Surveillance...",62.693
+473,27927,NY,Nathan S. Kline Institute,"Research Scientist, Level IV (Center for Brain Imaging & Neu...",91.629
+474,27951,NY,Vera Institute of Justice,"Research Analyst, Policing and SUMH",42.5
+475,27997,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Senior Data Manager, Family and Child Health Administration",90.981
+476,28010,NY,Altair Engineering,General Admin - Fleet Associate,54.432
+477,28024,NY,DEPT OF ENVIRONMENT PROTECTION,Environmental Health & Safety Auditor,90.981
+478,28095,NY,Harnham,Data Scientist - Modeling,125.0
+479,28220,NY,Venturi,Data Scientist ( FinTech / Insurance / CX / Python / R / ML...,115.0
+480,28233,NY,American Conference Institute,Business Research Analyst - Legal Conferences,50.0
+481,28289,NY,Averity,Senior Data Scientist for Global Multi-Billion Dollar Hedge...,200.0
+482,28302,NY,Research Foundation of The City University of New...,Technical Program Assistant,45.0
+483,28336,NY,Jobspring Partners,Data Scientist @ Predictive Analytics Startup,155.0
+484,28351,NY,The Forum Group,Marketing Research Analyst/Consumer Insights Analyst,55.0
+485,28363,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Syndromic Surveillance Analyst, Bureau of Communicable Disea...",79.2495
+486,28371,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Senior Research Analyst, Bureau of Maternal Infant and Repro...",90.615
+487,28374,NY,Harnham,Data Science Engineer,180.0
+488,28416,NY,Social Science Research Council,Education Research and Anxieties of Democracy: Program Assis...,33.0
+489,28515,NY,Altair Engineering,Electrical Engineer,126.72
+490,28582,NY,Averity,"VP, Senior Data Scientist (Financial Services)",262.5
+491,28626,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Evaluation Specialist, Disease Control Administration",78.7905
+492,28697,NY,Townsend & Associates,Lab Assistant - Part Time,24.0
+493,28763,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Panel Maintenance Analyst, World Trade Center Health Registr...",65.977
+494,28877,NY,3coast,Computer Vision / Machine Learning Engineer,127.5
+495,28897,NY,Averity,Director of Data Science (Startup),175.0
+496,28906,NY,Averity,Senior Data Scientist for Fortune 500 Company,175.0
+497,28918,NY,DEPT OF ENVIRONMENT PROTECTION,Projects Controls Specialist,65.977
+498,28921,NY,Execu | Search,Quantitative Analyst,175.0
+499,28923,NY,DEPT OF HEALTH/MENTAL HYGIENE,"Data Analyst, Bureau of Systems Strengthening and Access",84.5275
+500,29022,NY,TS KANDILIT LLC,Data Scientist - Tech Lead - Spark/Hadoop,144.0
+501,34605,TX,Texas Tech Univ Health Sciences Ctr,HSC Sr Research Scientist,48.0
+502,34720,TX,Texas Department of Public Safety,"Forensic Scientist I-III (DNA Analysis), LES - Garland",51.294
+503,41602,PA,Merck,Scientist,55.0
+504,41615,PA,Jobspring Partners,Data Scientist,117.5
+505,41645,PA,Jobspring Partners,"Data Scientist (R, SAS, Python)",110.0
+506,41647,PA,Jobspring Partners,"Data Analyst/Scientist (SAS, Python, SQL)",105.0
+507,41672,DE,Mondo,Quantitative Analyst,110.0
+508,41683,PA,EPM Scientific,NMR Spectroscopist,130.0
+509,41744,PA,3coast,Quant Research Analyst,200.0
+510,41871,DE,Liberty Personnel Services,Data Scientist,140.0
+511,41951,PA,"Mordue, Allen, Roberts, Bonney, Ltd",Quant Researcher Developer Scientist,187.5
+512,48619,CO,University of Colorado,Animal Care Tech I,28.5
+513,48629,CO,Denver Health,Statistical Research Specialist,66.654
+514,48640,CO,Denver Public Schools,"SENIOR ANALYST, RESEARCH AND PROGRAM EVALUATION",69.673
+515,55615,CA,Mega Group Online,Research and Verifications Analyst,32.5
+516,55769,CA,USC,Statistician II,78.1245
+517,55858,CA,Louisiana State Government,Environmental Health Scientist Coordinator,54.738
+518,56006,CA,UDig,Sr. Data Analyst - Marketing analytics experience desired,112.5
+519,56008,CA,Nelson & Associates,Research Analyst - Private Equity,120.0
+520,56037,CA,Los Angeles County Department of Human Resources,SUPERVISING CLINICAL LABORATORY SCIENTIST II,92.328
+521,56096,CA,"Clovity, Inc.",Data Engineer (Azure & Machine Learning),19.2
+522,56180,CA,Fawkes IDM,Research Analyst - Legal,77.5
+523,56350,CA,CyberCoders,Data Scientist,175.0
+524,69206,FL,Master Trace,Medical Research Analyst,23.04
+525,69242,FL,University of Miami,Sr. Research Associate 2,65.0
+526,69259,FL,Careerxchange,Mechanical Technician,50.0
+527,76197,GA,Emory University,"Scientist, Asc (AR) SOM",70.6
+528,76199,GA,Centers for Disease Control and Prevention,Health Scientist,72.6335
+529,76201,GA,LabPharm LLC,Data Entry & Analysis,30.0
+530,76215,GA,Emory University,Bioinformatics Analyst,64.1
+531,76228,GA,Emory University,Assistant Director--Faculty Recruitment (Winship),85.5
+532,76232,GA,"HireIQ Solutions, Inc.",Python Full Stack Engineer,95.0
+533,76355,GA,Emory University,Program Coordinator,53.2
+534,76660,GA,Principle Solutions Group,Data Scientist (Machine Learning),110.4
+535,83201,WA,Washington State Patrol,Research Analyst 4 (Criminal Analyst) NW...,50.334
+536,83216,WA,University of Washington,STATISTICIAN/DATA ANALYST,44.16
+537,83278,WA,University of Washington,MEDICAL LABORATORY SCIENTIST 1 OR TRAINEE,64.14
+538,83300,WA,University of Washington Medical Center,MEDICAL LABORATORY SCIENTIST 1 OR TRAINEE,64.14
+539,83342,WA,Federal Aviation Administration,Operations Research Analyst,67.127
+540,83481,WA,Public Health - Seattle & King County,Epidemiologist II,82.176
+541,83493,WA,University of Washington,IDENTITY & ACCESS ANALYST,51.138
+542,83533,WA,University of Washington Medical Center,ANATOMIC PATHOLOGY TECHNOLOGIST,57.5904
+543,83564,WA,"AIM Consulting Group, LLC",Data Engineer - Python - Machine Learning,172.8
+544,83620,WA,University of Washington Medical Center,"PROGRAM COORDINATOR, POST-ACUTE CARE",41.142
+545,83675,WA,University of Washington Medical Center,HR ASSISTANT SENIOR,42.09
+546,83685,WA,University of Washington,SUPPLY CHAIN TECHNICIAN LEAD,40.734
+547,83929,WA,State of Washington,Research Analyst 4 (Criminal Analyst) NW HIDTA - Watch Cente...,50.334
+548,83984,WA,State of Washington,Office Assistant 3 in South Seattle,31.158
+549,84054,WA,CyberCoders,Data Scientist,110.0
+550,90193,TX,"Applied Research Laboratories, The University of T...",Engineering Scientist Associate - R and D Software Developer,71.4
+551,90195,TX,University of Texas at Austin,Engineering Scientist - R and D Data Analysis Developer,102.498
+552,90196,TX,"Applied Research Laboratories, The University of T...",Engineering Scientist Associate - Software Engineering Assoc...,71.4
+553,90197,TX,"Applied Research Laboratories, The University of T...",Engineering Scientist Associate - Underwater Robotics Algori...,73.2
+554,90198,TX,"Applied Research Laboratories, The University of T...",Engineering Scientist - R and D Algorithm and System Develop...,102.5
+555,90199,TX,University of Texas at Austin,Research Engineering/ Scientist Associate V (Exempt),94.992
+556,90229,TX,University of Texas at Austin,Engineering Scientist - GPS Data Analyst,102.498
+557,90256,TX,University of Texas at Austin,Engineering Scientist - HF Geo Algortihm Developer,102.498
+558,90264,TX,University of Texas at Austin,Research Engineering/ Scientist Assistant - Research Assista...,27.996
+559,90265,TX,University of Texas at Austin,Research Engineering/ Scientist Assistant,27.996
+560,90268,TX,University of Texas at Austin,Engineering Scientist Associate - R and D Cyber Decision Sup...,71.4
+561,90282,TX,"Signature Science, LLC",Computer Scientist/Software Engineer,79.0
+562,90390,TX,Amerit Consulting,"Scientist III, Manufacturing Sciences (Job# 7210157)",65.28
+563,90433,TX,Invenio Marketing Solutions,Inside Sales Representative,36.0
+564,90438,TX,Winston Fox,Software Development Engineers (Core Java),160.0
+565,97191,OR,CyberCoders,Data Scientist,100.0
+566,97207,OR,Oregon Health & Science University,Staff Scientist,55.712
+567,97228,WA,DiscoverOrg,Corporate Research Analyst,28.8
+568,97249,OR,"City of Portland, OR",BES Internship (Community Service Aide II),28.2816
+569,97326,OR,University of Portland,Industry Relations Manager,60.0
+570,97336,OR,"Washington County, OR",Research And Evaluation Analyst,95.148
