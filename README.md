@@ -11,7 +11,7 @@ more data.
 
 The model proposed consists of two phases: an initial classifier followed by a salary predictor (regression). After analyzing the data and identifying two main groups based on salaries and titles it was clear that we can split them into two groups. The first one mainly contains data science roles while the second group contained research, analyst, and associate level roles.
 
-In order to train the model using the training data, which is 70 % of the collected data, two categories were created: salaries over 110 thousands and salaries lower than 110 thousands. With this information a Random Regression Classifier model was trained. One thing to have in mind is that this part of the process is crucial, because after classifying new data there will be two different models for each predicted category. If the jobs are misclassified it could result in a higher error in the salary prediction.
+In order to train the model using the training data, which is 70 % of the collected data, two categories were created: salaries over 110 thousands and salaries lower than 110 thousands. With this information a Random Forest Regression Classifier model was trained. One thing to have in mind is that this part of the process is crucial, because after classifying new data there will be two different models for each predicted category. If the jobs are misclassified it could result in a higher error in the salary prediction.
 
 The second phase, which consists of two identical models for each category, consist of two regression models. This predicts the final salary.
 Both of them were trained independently, by each subgroup in the training data.
